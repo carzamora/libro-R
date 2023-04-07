@@ -1,0 +1,5 @@
+---
+title: "Capítulo 3: Visualización de datos"
+---
+
+Aquí puedes escribir el contenido del capítulo 3.

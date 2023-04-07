@@ -1,0 +1,5 @@
+---
+title: "Capítulo 2: Manipulación de datos"
+---
+
+Aquí puedes escribir el contenido del capítulo 2.

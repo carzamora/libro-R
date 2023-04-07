@@ -1,0 +1,21 @@
+---
+title: "R básico: Desde un biólogo para biólogos"
+author: "Carlos Zamora-Manzur"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
+  bookdown::epub_book: default
+---
+
+# Prefacio {-}
+
+Este es un libro de ejemplo sobre R utilizando Rmarkdown y bookdown.
+
+# Tabla de contenidos
+
+- [Capítulo 1: Introducción a R](01-introduccion.Rmd)
+- [Capítulo 2: Manipulación de datos](02-manipulacion-datos.Rmd)
+- [Capítulo 3: Visualización de datos](03-visualizacion-datos.Rmd)

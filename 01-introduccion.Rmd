@@ -1,0 +1,5 @@
+---
+title: "Capítulo 1: Introducción a R"
+---
+
+Aquí puedes escribir el contenido del capítulo 1.
